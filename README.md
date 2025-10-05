@@ -33,8 +33,8 @@ I'm a **passionate developer** 💻, **problem solver** 🧠, and **tech enthusi
 
 Let's code together! 😎 Find me on:
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rinaldo-halliburton-93b12832a)  
-[<img src="https://img.shields.io/badge/-Portfolio-FF6F61?style=flat-square&logo=firefox&logoColor=white" />](rinaldohalliburton.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rinaldo-halliburton-93b12832a/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat-square&logo=firefox&logoColor=white)](https://rinaldohalliburton.com)
 
 ---
 
